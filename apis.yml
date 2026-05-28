@@ -1,0 +1,32 @@
+aid: geokeo
+name: Geokeo
+description: "Geokeo geocoding service- with 2500 free api requests daily"
+url: https://geokeo.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Geokeo
+    description: "Geokeo geocoding service- with 2500 free api requests daily"
+    humanURL: https://geokeo.com
+    baseURL: https://geokeo.com
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://geokeo.com
+common:
+  - type: Website
+    url: https://geokeo.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

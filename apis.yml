@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://geokeo.com
 common:
+  - type: DomainSecurity
+    url: security/geokeo-domain-security.yml
   - type: Website
     url: https://geokeo.com
   - type: PublicAPIsListing

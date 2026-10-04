@@ -39,7 +39,6 @@ apis:
   - name: Geokeo
     description: "Geokeo geocoding service- with 2500 free api requests daily"
     humanURL: https://geokeo.com
-    baseURL: https://geokeo.com
     tags:
       - Geocoding
     properties:
